@@ -12,7 +12,9 @@ export const styles = StyleSheet.create({
     height: 40,
     borderColor: 'black', 
     borderWidth:  3,
-    marginBottom: 12,
+    marginBottom: 18,
+    marginTop: 10,
     paddingHorizontal: 18,
+
   },
 });
